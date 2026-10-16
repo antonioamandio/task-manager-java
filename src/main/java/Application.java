@@ -1,6 +1,6 @@
 public class Application {
     public static void main(String[] args) {
-        System.out.println("=== TASK MANAGER ===");
-        System.out.println("Aplicação iniciada com sucesso!");
+        IO.println("=== TASK MANAGER ===");
+        IO.println("Aplicação iniciada com sucesso!");
     }
 }
